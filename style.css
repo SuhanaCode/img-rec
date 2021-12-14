@@ -1,0 +1,16 @@
+body
+{
+    background-color: pink;
+}
+
+h4
+{
+    font-weight: bold;
+}
+
+#camera
+{
+    border: solid;
+    width: 350px;
+    height: 350px;
+}
